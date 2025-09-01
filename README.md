@@ -406,3 +406,53 @@ Library | License | Demo
 [Lollipop-AppCompat-Widgets-Skeleton](https://github.com/sachin1092/Lollipop-AppCompat-Widgets-Skeleton) | Apache 2.0 | <img src="/art/LollipopAppCompatWidgetSkeleton.gif" width="49%">
 [Balloon(tooltips)](https://github.com/skydoves/Balloon) | Apache 2.0 | <img src="https://user-images.githubusercontent.com/24237865/61194943-f9d70380-a6ff-11e9-807f-ba1ca8126f8a.gif" width="49%"> <img src="https://user-images.githubusercontent.com/24237865/61225579-d346b600-a75b-11e9-84f8-3c06047b5003.gif" width="49%">
 [ColorPickerView](https://github.com/skydoves/colorpickerview) | Apache 2.0 | <img src="https://github.com/skydoves/ColorPickerView/blob/master/art/art0.gif" width="49%"> <img src="https://github.com/skydoves/ColorPickerView/blob/master/art/art1.gif" width="49%">
+
+
+# 🤝 Contributing to Awesome UI Libraries
+
+Thank you for showing interest in contributing to **Awesome UI Libraries**!  
+We welcome contributions, suggestions, and improvements from the community.  
+
+---
+
+## 🔑 How to Request Collaboration Access
+
+If you’d like to become a regular contributor (with push access):
+
+1. Open an [Issue](https://github.com/GmdDev074/awesome_ui_libraries/issues) with the title:  
+   **"Request to Join as a Collaborator"**.  
+
+2. Introduce yourself and share how you’d like to contribute.  
+
+3. The repository owner will review and, if approved, invite you as a collaborator.  
+
+---
+
+## 📌 Contribution Guidelines
+
+- Keep contributions relevant to **UI libraries and tools**.  
+- Use clear and descriptive commit messages.  
+- Be respectful and constructive in discussions.  
+- Follow the **Code of Conduct** (if present).  
+
+---
+
+## 🛠 How to Collaborate
+
+1. **Fork this repository**  
+   - Click on the **Fork** button at the top right of this page.  
+   - This will create a copy of the repository under your GitHub account.
+
+2. **Clone your forked repo**
+   ```bash
+   git clone https://github.com/<your-username>/awesome_ui_libraries.git
+
+
+## 🛠 Create a new branch
+- Always work on a separate branch to keep changes organized.
+```bash
+   git checkout -b feature/your-feature-name
+
+
+
+
